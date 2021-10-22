@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi  👋
 
-<!--
-**guilhermebabel1/guilhermebabel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥 Hoje estou trabalhando como editor de videos para a empresa WK Sistemas.
+- 👨‍🎓 Cursando o 1 ano do Ensino Médio.
+- 👨‍💻 Tenho 16 anos.
+- 💬 Contato no email : guibabelmachado@gmai.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/guilhermebabel1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebabel1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebabel1&layout=compact&langs_count=7&theme=dark /div>
+                           
+                          
