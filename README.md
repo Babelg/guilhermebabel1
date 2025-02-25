@@ -4,6 +4,7 @@
 - 👨‍🎓 Cursando o Sistemas da Informação - FURB
 - 👨‍💻 Tenho 19 anos.
 - 💬 Contato no email : guibabelmachado@gmail.com
+- 📩 Linkedin : www.linkedin.com/in/guilherme-babel-machado-25a4531ba
 
 
 <div>
